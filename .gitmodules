@@ -1,0 +1,24 @@
+[submodule "nautilus_bci"]
+	path = nautilus_bci
+	url = https://github.com/JohnGF/nautilus_bci.git
+	branch = main
+[submodule "kinect_eye_tracker"]
+	path = kinect_eye_tracker
+	url = https://github.com/JohnGF/kinect_eye_tracker.git
+	branch = main
+[submodule "kinect2pipe"]
+	path = kinect2pipe
+	url = https://github.com/JohnGF/kinect2pipe.git
+	branch = master
+[submodule "hikmicro-lsl"]
+	path = hikmicro-lsl
+	url = https://github.com/JohnGF/hikmicro-lsl.git
+	branch = main
+[submodule "galaxy_watch_lsl"]
+	path = galaxy_watch_lsl
+	url = https://github.com/JohnGF/galaxy_watch_lsl.git
+	branch = main
+[submodule "bci_workshop"]
+	path = bci_workshop
+	url = https://github.com/JohnGF/bci_workshop.git
+	branch = master
