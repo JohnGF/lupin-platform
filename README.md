@@ -53,6 +53,16 @@ Then follow the README of the component you need. Most Python components run wit
 needs the firewall open:
 [LSL network setup](https://johngf.github.io/nautilus_bci/guides/lsl_network_setup/).
 
+## Pipeline Dashboard
+
+The unified web dashboard coordinates stream lifecycles, readiness verification, and BIDS recording:
+
+```bash
+./pipeline_dashboard.sh
+```
+
+For instructions on adding new devices, viewers, tasks, or API routes, see the [Dashboard Extension Guide](DASHBOARD_EXTENSION_GUIDE.md).
+
 ## Licence
 
 The workspace files here are MIT ([LICENSE](LICENSE)). Each component carries its own licence.
